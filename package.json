@@ -1,11 +1,8 @@
 {
-  "name": "deobfuscate",
+  "name": "deobfuscate.js",
   "version": "0.0.1",
   "description": "Deobfuscate JavaScript Files",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cvazac/deobfuscate.js.git"
@@ -23,7 +20,6 @@
   },
   "homepage": "https://github.com/cvazac/deobfuscate.js#readme",
   "dependencies": {
-    "acorn": "^6.0.1",
     "escodegen": "^1.11.0",
     "esprima": "^4.0.1"
   }
