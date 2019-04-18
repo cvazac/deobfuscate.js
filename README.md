@@ -7,5 +7,5 @@ Deobfuscate common patterns.
 
 ```sh
 $ npm install
-$ more ./examples/nsc.js | node index.js > ./nsc.out.js
+$ node index.js ./examples/nsc.js > ./nsc.out.js
 ```
